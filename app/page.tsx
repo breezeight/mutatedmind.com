@@ -17,7 +17,7 @@ export default function Home() {
         <p className="text-xl text-center my-8">Evolving Business Through AI Innovation</p>
       </header>
 
-      <section className="w-full max-w-3xl text-center mb-12">
+      <section className="w-full max-w-3xl text-center my-12">
         <h2 className="text-2xl font-semibold mb-4">Our Evolution Engine</h2>
         <p className="text-lg">
           At <strong>MutatedMind</strong>, our evolution engine is based on continuous research and experimentation, 
@@ -34,7 +34,7 @@ export default function Home() {
 
 
 
-      <section className="w-full max-w-xl mb-12">
+      <section className="w-full max-w-xl my-12">
         <h2 className="text-2xl font-semibold text-center mb-4">Connect With Us</h2>
         <div className="flex flex-col items-center space-y-6">
           <a href="https://x.com/MutatedMindcom" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-700">
